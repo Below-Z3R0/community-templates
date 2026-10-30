@@ -27,7 +27,7 @@ The rendered skin carries two things:
 - `customCSS:` — the desktop app's exact CSS custom properties, so the window
   chrome, sidebar, popovers and borders follow the palette precisely.
 
-![Hermes Desktop in light mode](screenshot-light.png)
+![Hermes Desktop in light mode](light-screenshot.png)
 
 ## Prerequisites
 
